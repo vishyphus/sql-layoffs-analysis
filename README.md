@@ -177,7 +177,7 @@ Through this project, I learned:
 
 # Author
 
-Vish
+Vishakha Kashyap
 
 ```
 ```
